@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\DotNetProjects\ElevenNote.WebMVC\ElevenNote.Services\bin\Debug\ElevenNote.Services.dll
+C:\ElevenFiftyProjects\DotNetProjects\ElevenNote.WebMVC\ElevenNote.Services\bin\Debug\ElevenNote.Services.pdb
+C:\ElevenFiftyProjects\DotNetProjects\ElevenNote.WebMVC\ElevenNote.Services\obj\Debug\ElevenNote.Services.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\ElevenNote.WebMVC\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\ElevenNote.WebMVC\ElevenNote.Services\obj\Debug\ElevenNote.Services.dll
+C:\ElevenFiftyProjects\DotNetProjects\ElevenNote.WebMVC\ElevenNote.Services\obj\Debug\ElevenNote.Services.pdb
